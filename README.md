@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiSahithPolimera
 - 👀 I’m interested in learning about new frameworks, technologies and developmeing apps, websites and embedded projects.
-- 🌱 I’m currently learning Flutter framework.
+- 🌱 I’m currently learning Flutter framework, React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... reach out to me at saisahithpolimera769@gmail.com
 - 😄 Pronouns: ...
