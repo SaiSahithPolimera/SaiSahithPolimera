@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SaiSahithPolimera
-- 👀 I’m interested in learning about new frameworks, technologies and developmeing websites and embedded projects.
+- 👀 I’m interested in learning about new frameworks, technologies.
+- 👨🏻‍💻 I develop web applications and embedded projects.
 - 🌱 I’m currently learning full stack development.
 - 🔭 I'm currently working on The odin project.
 - 📫 How to reach me ... reach out to me at saisahithpolimera769@gmail.com
