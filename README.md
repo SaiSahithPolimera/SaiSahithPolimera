@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SaiSahithPolimera
-- 👀 I’m interested in learning about new frameworks, technologies.
+- 👀 I’m interested in learning about algorithms and LLMs.
 - 👨🏻‍💻 I develop web applications and embedded projects.
-- 🌱 I’m currently learning full stack development.
-- 🔭 I'm currently working on The odin project.
+- 🌱 I’m leanring how transformers work.
+- 🔭 I'm currently working on @GreatInterview.
 - 📫 How to reach me ... reach out to me at saisahithpolimera769@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
